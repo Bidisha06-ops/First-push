@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1698761594 source:d:\kriti folder\programming\codeblocks\dsa ll\postfix evaluation\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+
