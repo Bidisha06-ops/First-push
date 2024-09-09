@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1684088543 source:d:\kriti folder\programming\codeblocks\strings\prog11\main.c
+	<stdio.h>
+	<string.h>
+
